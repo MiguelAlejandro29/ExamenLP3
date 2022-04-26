@@ -12,6 +12,4 @@ public class Usuario
     public string Rol { get; set; }
     public string Clave { get; set; }
     public bool EstaActivo { get; set; }
-
-
 }
